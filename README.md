@@ -18,7 +18,7 @@ RSA-DNA.py
 after running the code you will upload an image for encryption.
 your encrypted/decrypted files will be automatically saved in the directory where you saved the `RSA-DNA.py` file
 
-![Semantic description of image](C:/Users/DELL/PycharmProjects/pythonProject2/encryptedRSA.jpg "encryptedRSA")
+![](https://github.com/mamounlyes/Hybrid-of-RSA-algorithm-and-DNA-sequence-coding-for-image-encryption-/tree/main/1)encryptedRSA.jpg "encryptedRSA")
 
 
 
