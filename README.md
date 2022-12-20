@@ -46,5 +46,7 @@ after running the code you will upload an image and the vertical, horizontal, an
 
 ( v h d )
 
+The obtained cross correlation values for each indivisual image are listed below 
 
+![](https://github.com/mamounlyes/Hybrid-of-RSA-algorithm-and-DNA-sequence-coding-for-image-encryption-/blob/010dea8d3b7906c7af0ae8637fba0a48d5023573/1/CCV.jpg)
 
