@@ -13,7 +13,7 @@ Use the file `images` to ecrypt and dycrpte an `images`
 ```bash 
 RSA-DNA.py
 ```
-aftr running the code you will upload an image for encryption.
+after running the code you will upload an image for encryption.
 your encrypted/decrypted files will be automatically saved in the directory where you saved the `RSA-DNA.py` file
 
 
@@ -23,6 +23,19 @@ to obtain the Histogram , run the code
 ```bash 
 Histogram .py
 ```
-aftr running the code you will upload an image and the RDB histogram automatically saved in the directory where you saved the `RSA-DNA.py` file
+after running the code you will upload an image and the RDB histogram automatically saved in the directory where you saved the `RSA-DNA.py` file
+
+
+## Cross correlation 
+
+For obtaining the vertical, horizontal, and diagonal corss corellation value, run the code 
+
+```bash 
+VHD-cross correlation.py
+```
+after running the code you will upload an image and the vertical, horizontal, and diagonal corss corellation values will be shown as follow 
+
+( v h d )
+
 
 
