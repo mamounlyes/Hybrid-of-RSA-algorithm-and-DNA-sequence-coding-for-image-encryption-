@@ -5,9 +5,7 @@ This repository contains the Images and codes for reproducing the results ontain
 
 The used images are found in the file named (Images).
 
-## encryption and dycription  sapmple 
 
-Cancel changes
 ### ENCRYPTION AND DYCRYPTION   
 
 Use the file `images` to ecrypt and dycrpte an `images`
