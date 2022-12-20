@@ -18,8 +18,7 @@ RSA-DNA.py
 after running the code you will upload an image for encryption.
 your encrypted/decrypted files will be automatically saved in the directory where you saved the `RSA-DNA.py` file
 
-![](https://github.com/mamounlyes/Hybrid-of-RSA-algorithm-and-DNA-sequence-coding-for-image-encryption-/tree/main/1/encryptedRSA.jpg "encryptedRSA")
-
+0|![](https://github.com/mamounlyes/Hybrid-of-RSA-algorithm-and-DNA-sequence-coding-for-image-encryption-/blob/272d6320e4a3320c94b097c19d39cf74b599c20e/1/encryptedRSA.jpg)
 
 
 ### Histogram 
