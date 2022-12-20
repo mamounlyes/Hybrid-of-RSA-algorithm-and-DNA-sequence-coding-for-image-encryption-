@@ -19,8 +19,8 @@ your encrypted/decrypted files will be automatically saved in the directory wher
 You will get a results like these if you choose image 1 
 
 
-|![](https://github.com/mamounlyes/Hybrid-of-RSA-algorithm-and-DNA-sequence-coding-for-image-encryption-/blob/272d6320e4a3320c94b097c19d39cf74b599c20e/1/encryptedRSA.jpg)|![](https://github.com/mamounlyes/Hybrid-of-RSA-algorithm-and-DNA-sequence-coding-for-image-encryption-/blob/272d6320e4a3320c94b097c19d39cf74b599c20e/1/encryptedDNA.jpg)|![](https://github.com/mamounlyes/Hybrid-of-RSA-algorithm-and-DNA-sequence-coding-for-image-encryption-/blob/272d6320e4a3320c94b097c19d39cf74b599c20e/1/decryptedDNA.jpg)
-|![](https://github.com/mamounlyes/Hybrid-of-RSA-algorithm-and-DNA-sequence-coding-for-image-encryption-/blob/272d6320e4a3320c94b097c19d39cf74b599c20e/1/decryptedRSA.jpg)
+ ![](https://github.com/mamounlyes/Hybrid-of-RSA-algorithm-and-DNA-sequence-coding-for-image-encryption-/blob/272d6320e4a3320c94b097c19d39cf74b599c20e/1/encryptedRSA.jpg) ![](https://github.com/mamounlyes/Hybrid-of-RSA-algorithm-and-DNA-sequence-coding-for-image-encryption-/blob/272d6320e4a3320c94b097c19d39cf74b599c20e/1/encryptedDNA.jpg) ![](https://github.com/mamounlyes/Hybrid-of-RSA-algorithm-and-DNA-sequence-coding-for-image-encryption-/blob/272d6320e4a3320c94b097c19d39cf74b599c20e/1/decryptedDNA.jpg)
+ ![](https://github.com/mamounlyes/Hybrid-of-RSA-algorithm-and-DNA-sequence-coding-for-image-encryption-/blob/272d6320e4a3320c94b097c19d39cf74b599c20e/1/decryptedRSA.jpg)
 
 ### Histogram 
 
@@ -32,8 +32,7 @@ after running the code you will upload an image and the RDB histogram automatica
 
 The RGB Histogram of image 1 
 
-|![](https://github.com/mamounlyes/Hybrid-of-RSA-algorithm-and-DNA-sequence-coding-for-image-encryption-/blob/272d6320e4a3320c94b097c19d39cf74b599c20e/1/RGB Histogram.jpg)
-
+![](https://github.com/mamounlyes/Hybrid-of-RSA-algorithm-and-DNA-sequence-coding-for-image-encryption-/blob/010dea8d3b7906c7af0ae8637fba0a48d5023573/1/RGB%20Histogram.jpg)
 
 ### Cross correlation 
 
