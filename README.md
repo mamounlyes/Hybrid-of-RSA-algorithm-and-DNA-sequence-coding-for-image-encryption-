@@ -2,11 +2,13 @@
 
 This repository contains the Images and codes for reproducing the results ontaind in the term paper:
 
-## IMAGES 
 
-The used images are found in the file Images.
+The used images are found in the file named (Images).
 
-## ENCRYPTION AND DYCRYPTION RESULTS  
+## encryption and dycription  sapmple 
+
+
+### ENCRYPTION AND DYCRYPTION   
 
 Use the file `images` to ecrypt and dycrpte an `images`
 
@@ -16,8 +18,11 @@ RSA-DNA.py
 after running the code you will upload an image for encryption.
 your encrypted/decrypted files will be automatically saved in the directory where you saved the `RSA-DNA.py` file
 
+![Semantic description of image](C:\Users\DELL\PycharmProjects\pythonProject2\encryptedRSA.jpg "Image Title")
 
-## Histogram 
+
+
+### Histogram 
 
 to obtain the Histogram , run the code 
 ```bash 
@@ -26,7 +31,7 @@ Histogram .py
 after running the code you will upload an image and the RDB histogram automatically saved in the directory where you saved the `RSA-DNA.py` file
 
 
-## Cross correlation 
+### Cross correlation 
 
 For obtaining the vertical, horizontal, and diagonal corss corellation value, run the code 
 
