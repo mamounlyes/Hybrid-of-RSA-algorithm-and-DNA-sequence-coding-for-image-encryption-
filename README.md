@@ -34,7 +34,7 @@ after running the code you will upload an image and the RDB histogram automatica
 
 The RGB Histogram of image 1 
 
-|![](https://github.com/mamounlyes/Hybrid-of-RSA-algorithm-and-DNA-sequence-coding-for-image-encryption-/blob/272d6320e4a3320c94b097c19d39cf74b599c20e/1/RGB Histogram.jpg.jpg)
+|![](https://github.com/mamounlyes/Hybrid-of-RSA-algorithm-and-DNA-sequence-coding-for-image-encryption-/blob/272d6320e4a3320c94b097c19d39cf74b599c20e/1/RGB Histogram.jpg)
 
 
 ### Cross correlation 
