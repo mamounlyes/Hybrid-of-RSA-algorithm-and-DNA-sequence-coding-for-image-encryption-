@@ -8,7 +8,8 @@ The used images are found in the file named (Images).
 
 ### ENCRYPTION AND DYCRYPTION   
 
-Use the file `images` to ecrypt and dycrpte an `images`
+Use the code file `RSA-DNA.py
+` to ecrypt and dycrpte an image
 
 ```bash 
 RSA-DNA.py
@@ -28,7 +29,7 @@ to obtain the Histogram , run the code
 ```bash 
 Histogram .py
 ```
-after running the code you will upload an image and the RDB histogram automatically saved in the directory where you saved the `RSA-DNA.py` file
+after running the code you will upload an image and the RDB histogram will be automatically saved in the directory where you saved the `RSA-DNA.py` file
 
 The RGB Histogram of image 1 
 
