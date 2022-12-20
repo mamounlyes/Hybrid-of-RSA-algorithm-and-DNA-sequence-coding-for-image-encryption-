@@ -7,7 +7,7 @@ The used images are found in the file named (Images).
 
 ## encryption and dycription  sapmple 
 
-
+Cancel changes
 ### ENCRYPTION AND DYCRYPTION   
 
 Use the file `images` to ecrypt and dycrpte an `images`
@@ -18,7 +18,7 @@ RSA-DNA.py
 after running the code you will upload an image for encryption.
 your encrypted/decrypted files will be automatically saved in the directory where you saved the `RSA-DNA.py` file
 
-![](https://github.com/mamounlyes/Hybrid-of-RSA-algorithm-and-DNA-sequence-coding-for-image-encryption-/tree/main/1)encryptedRSA.jpg "encryptedRSA")
+![](https://github.com/mamounlyes/Hybrid-of-RSA-algorithm-and-DNA-sequence-coding-for-image-encryption-/tree/main/encryptedRSA.jpg "encryptedRSA")
 
 
 
