@@ -2,3 +2,8 @@
 
 This repository contains the Images and codes for reproducing the results ontaind in the term paper:
 
+## Running the code 
+
+TO
+
+
