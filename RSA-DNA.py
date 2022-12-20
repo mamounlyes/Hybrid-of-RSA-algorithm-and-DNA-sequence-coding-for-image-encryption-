@@ -25,8 +25,8 @@ print("---------------------")
 print(X[1,1,1])
 print("---------------------")
 # cv2_imshow(my_img)
-plt.imshow(X, cmap="gray")
-print(X.shape)
+#plt.imshow(X, cmap="gray")
+#print(X.shape)
 dimensions = X.shape
 
 # height, width, number of channels in image
@@ -34,8 +34,8 @@ height = X.shape[0]
 width = X.shape[1]
 channels = X.shape[2]
 
-dip.imshow(X, cmap="gray")
-dip.show()
+#dip.imshow(X, cmap="gray")
+#dip.show()
 print(X[1,1,1])
 def prime_generator(end):
     for n in range(150, 200):     # n starts from 2 to end
